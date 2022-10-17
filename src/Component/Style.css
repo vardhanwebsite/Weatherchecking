@@ -164,5 +164,14 @@
       flex-direction: row;
       
     }
+     
+     .search {
+    width: 100%;
+    height:30%;
+    position: relative;
+    display: flex;
+    padding-top: 47px;
+    justify-content: center;
+  }
    
   }
