@@ -165,6 +165,24 @@
       
     }
      
+     .temp{
+      font-size: 3rem;
+      font-weight: bold;
+    }
+
+    .place{
+      font-size: 2rem;
+    }
+    
+    .date{
+      font-size: 1rem;
+    }
+
+    .weticon{
+      font-size: 30px;
+      width: 30px;
+    }
+     
    
    
   }
