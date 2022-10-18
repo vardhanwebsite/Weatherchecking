@@ -158,7 +158,7 @@
 
     .right{
       width: 100%;
-      /* background-color: antiquewhite; */
+     background-color: rgba(0,0,0,0.75);
       height: 40vh;
       display:flex;
       color: aqua;
