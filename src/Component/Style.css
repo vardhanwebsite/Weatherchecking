@@ -145,6 +145,7 @@
       flex-direction: column;
       height: 100vh;
       width: 100%;
+        background-color: rgba(0,0,0,0.75);
     }
 
     .left{
@@ -158,7 +159,7 @@
     .right{
       width: 100%;
       /* background-color: antiquewhite; */
-      height: 300px;
+      height: 40vh;
       display:flex;
       color: aqua;
       flex-direction: row;
