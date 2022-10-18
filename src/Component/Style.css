@@ -158,7 +158,7 @@
     .right{
       width: 100%;
       /* background-color: antiquewhite; */
-      height: 40vh;
+      height: 300px;
       display:flex;
       color: aqua;
       flex-direction: row;
@@ -189,7 +189,7 @@
       height:20%;
       position: relative;
       display: flex;
-      margin-top: 47px;
+      margin-top: 7px;
       justify-content: center;
     }
     
